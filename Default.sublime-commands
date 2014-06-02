@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Remove extra right spaces",
+        "command": "remove_extra_right_spaces"
+    }
+]

@@ -1,0 +1,3 @@
+[
+    { "keys": ["super+shift+c"], "command": "remove_extra_right_spaces" }			
+]

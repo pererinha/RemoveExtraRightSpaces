@@ -1,0 +1,7 @@
+Thanks for installing the Remove Extra Right Spaces plugin.
+
+This plugin removes extra right spaces from each line of your code.
+
+I hope you you find this plugin helpful.
+
+Github page https://github.com/pererinha/RemoveExtraRightSpaces.
