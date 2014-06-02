@@ -5,7 +5,8 @@ This Sublime plugin removes extra right spaces from each line of your code.
 I hope you you find this plugin helpful.
 
 ### Why?
-
+Because these extra right spaces bother me! :angry: :stuck_out_tongue_winking_eye:
+![remove_right_spaces_py__removeextraspaces](https://cloud.githubusercontent.com/assets/99601/3143481/7c11ffec-e9fc-11e3-8f5d-c48262f6f9cc.png)
 
 
 ### Installation
